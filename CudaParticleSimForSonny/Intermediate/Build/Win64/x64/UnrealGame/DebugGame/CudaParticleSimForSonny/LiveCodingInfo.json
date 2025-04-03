@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CudaParticleSimForSonny.cpp.obj": [
+			"ClothSimActor.gen.cpp.obj",
+			"CudaParticleSimForSonny.init.gen.cpp.obj",
+			"CUDA_test.gen.cpp.obj",
+			"ParticleSimActor.gen.cpp.obj",
+			"CudaParticleSimForSonny.cpp.obj",
+			"ClothSimActor.cpp.obj",
+			"CUDA_test.cpp.obj",
+			"ParticleSimActor.cpp.obj"
+		]
+	}
+}

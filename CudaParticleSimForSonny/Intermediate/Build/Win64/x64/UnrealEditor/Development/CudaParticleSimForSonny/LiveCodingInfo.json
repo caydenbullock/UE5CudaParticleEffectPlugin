@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CudaParticleSimForSonny.cpp.obj": [
+			"CudaParticleSimForSonny.init.gen.cpp.obj",
+			"ParticleSimActor.gen.cpp.obj",
+			"CudaParticleSimForSonny.cpp.obj",
+			"ParticleSimActor.cpp.obj"
+		]
+	}
+}

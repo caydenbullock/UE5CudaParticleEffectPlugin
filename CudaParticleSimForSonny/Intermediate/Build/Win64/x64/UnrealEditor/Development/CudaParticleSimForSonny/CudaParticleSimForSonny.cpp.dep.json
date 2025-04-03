@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\juice\\documents\\ue5projects\\blaster\\plugins\\cudaparticlesimforsonny\\source\\cudaparticlesimforsonny\\private\\cudaparticlesimforsonny.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\juice\\documents\\ue5projects\\blaster\\intermediate\\build\\win64\\x64\\blastereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\juice\\documents\\ue5projects\\blaster\\plugins\\cudaparticlesimforsonny\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cudaparticlesimforsonny\\definitions.cudaparticlesimforsonny.h",
+            "c:\\users\\juice\\documents\\ue5projects\\blaster\\plugins\\cudaparticlesimforsonny\\source\\cudaparticlesimforsonny\\public\\cudaparticlesimforsonny.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
