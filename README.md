@@ -11,3 +11,5 @@ Then, open the project in the editor, and enable the plugin through Edit->Plugin
 The plugin contains a BP_ParticleSimActor which can be dragged and dopped into a level to spawns the particle sim.
 
 Alternatively, the class AParticleSimActor may be inherited from to make a blueprint.
+
+note: It requires an NVIDIA GPU to use.
