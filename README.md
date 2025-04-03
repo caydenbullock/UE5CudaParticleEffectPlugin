@@ -1,6 +1,6 @@
 # UE5CudaPlugin
 
-Hello, this repo contains the kernel compiled with NVIDIA Toolkit v12, and a UE5 Plugin utilizing it.
+This repo contains the kernel compiled with NVIDIA Toolkit v12, and a UE5 Plugin utilizing it.
 
 File cuda_lib_test.cu is the CUDA kernel, and CudaParticleSimForSonny is the plugin.
 
