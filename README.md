@@ -1,5 +1,9 @@
 # UE5CudaPlugin
 
+The particle effect included with the plugin:
+
+![cudaeffect](https://github.com/user-attachments/assets/c231a9e8-ae8d-4835-b4bb-a14eebfe65a8)
+
 This repo contains the kernel compiled with NVIDIA Toolkit v12, and a UE5 Plugin utilizing it.
 
 File cuda_lib_test.cu is the CUDA kernel, and CudaParticleSimForSonny is the plugin.
