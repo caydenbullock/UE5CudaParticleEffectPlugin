@@ -12,7 +12,7 @@ The plugin can be used in any UE5 Project by adding it to the Plugins folder (cr
 
 Then, open the project in the editor, and enable the plugin through Edit->Plugins and search "CudaParticleSimForSonny". 
 
-The plugin contains a BP_ParticleSimActor which can be dragged and dopped into a level to spawns the particle sim.
+The plugin contains a BP_ParticleSimActor which can be dragged and dopped into a level to spawn the particle sim.
 
 Alternatively, the class AParticleSimActor may be inherited from to make a blueprint.
 
